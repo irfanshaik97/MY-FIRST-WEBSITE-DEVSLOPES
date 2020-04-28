@@ -1,0 +1,47 @@
+.jumbotron {
+    background: none;
+    text-align: center;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background: #cccccc;
+    padding: 2rem;
+}
+
+
+.textPara {
+    color: black;
+}
+
+button.buttonCool {
+    display: block;
+    margin: auto;
+    background: red;
+    color: black;
+
+}
+
+h5.modal-title {
+    display: block;
+    margin-left: 130px;
+}
+
+.imgCentre {
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
+
+.buttonImg {
+    display: block;
+    background: red;
+    color: ghostwhite;
+    padding: 12px 48px 12px 48px;
+    margin: auto;
+
+}
